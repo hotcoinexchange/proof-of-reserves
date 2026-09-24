@@ -1,0 +1,179 @@
+{
+  "protocol": "HOTCOIN-POR-SUM",
+  "assets": [{
+    "coin": "BTC",
+    "decimals": 8
+  }, {
+    "coin": "ETH",
+    "decimals": 7
+  }, {
+    "coin": "USDT",
+    "decimals": 4
+  }],
+  "self": {
+    "snapshotId": "2026-09-21 00:00:00",
+    "accountId": "52226ffcec1d59679773a316a95c0d4b5cdeec1bcff8b26b4571362cc0d14f92",
+    "nonce": "3a5bd7627f11a8cbcd3d8246d4f8a63fb22c72c3bf8e0b21023c5ea71a38c5c6",
+    "balances": {
+      "BTC": "1873.62448192",
+      "ETH": "84339.866834",
+      "USDT": "5325552.147"
+    },
+    "leafHash": "ecd4ecef8bdbb9ae66bcc6cfb233b2f4aaef3814e8e1daf8ebbcba03aeadce84",
+    "leafIndex": 388,
+    "leafCount": 310177
+  },
+  "path": [{
+    "position": "RIGHT",
+    "hash": "fdedb957eaea888bd9acabcf0bcccdbe5c560771c24f612273b4653fb8ca5b12",
+    "balances": {
+      "BTC": "9033.24489749",
+      "ETH": "90373.4857205",
+      "USDT": "58343975.5849"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "3626d4c664a012af396dc9281c0a8aed08949214b896fcaf76a68752a00d5314",
+    "balances": {
+      "BTC": "2564.81850081",
+      "ETH": "165362.020396",
+      "USDT": "63546178.8104"
+    }
+  }, {
+    "position": "LEFT",
+    "hash": "858e3fe7a495635f28091a42975227d02cc2f844ced6449ef917fdc3d1923250",
+    "balances": {
+      "BTC": "17816.82853718",
+      "ETH": "250524.0685456",
+      "USDT": "180271977.4526"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "9e379ae18d00728199c80d0eb0eeeea59a165c661b71fcc244a202a2d31160b5",
+    "balances": {
+      "BTC": "29950.8744496",
+      "ETH": "322780.6719784",
+      "USDT": "510046748.1824"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "a8ad8381777352c613bfc7b6f7a2c1d1f8ccda2417de3b7c777006aed7afd92b",
+    "balances": {
+      "BTC": "67162.85207369",
+      "ETH": "698541.7499361",
+      "USDT": "789835898.5993"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "6ab94e4f728511ac046f8c9bfaaf6a89e16d332e063df0100979566d4fdb94de",
+    "balances": {
+      "BTC": "153046.4220385",
+      "ETH": "1651035.3768272",
+      "USDT": "1913879371.3361"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "ff5b8c96e125e592838c269d41022411e2c1cc91340cd5de61909fbddd637dc7",
+    "balances": {
+      "BTC": "330604.39248483",
+      "ETH": "3235371.2588986",
+      "USDT": "3390477607.4036"
+    }
+  }, {
+    "position": "LEFT",
+    "hash": "fb6eb072e8a2038dbcb1debe19cd6a54c706eb892621961bf251ca353b898a61",
+    "balances": {
+      "BTC": "613596.83245039",
+      "ETH": "6505447.5194984",
+      "USDT": "6348512291.9807"
+    }
+  }, {
+    "position": "LEFT",
+    "hash": "87a5b638a51981876f9cde3bb4f1c667150371fc5558643762477cc13deff7f5",
+    "balances": {
+      "BTC": "1310944.6044992",
+      "ETH": "12486030.2437798",
+      "USDT": "12601192668.4969"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "bab7e55f6118dbf3c63080ace479ea7130525d28c722ea00da3d34e22303286e",
+    "balances": {
+      "BTC": "2508002.72341113",
+      "ETH": "25927622.8280543",
+      "USDT": "25808620350.1201"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "368a67807a46af73b5c0b7717329691cc69449512818df39c379ba5aa72a9c42",
+    "balances": {
+      "BTC": "5036674.17075351",
+      "ETH": "49926938.246808",
+      "USDT": "52655638035.6652"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "069a41070dfd35cb8194c5699099e99657ad833223bdb530a007d2392a205356",
+    "balances": {
+      "BTC": "10186569.98315562",
+      "ETH": "101767423.8692915",
+      "USDT": "104451487078.1738"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "e9e2f688b779097cb3a13ec0836dfb193263b3e71455a4249bf1ccf9c514a3e5",
+    "balances": {
+      "BTC": "20195121.82880288",
+      "ETH": "204219355.6217778",
+      "USDT": "203879354373.0484"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "0df0e749759488b18f5adfbcdb62242b44fb0cf1b75c7d284fae9810299e4f7b",
+    "balances": {
+      "BTC": "40775911.7901617",
+      "ETH": "406201651.9184186",
+      "USDT": "414485336435.8022"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "1caf776658f2b1dc6e49dd003a047aa2e20e09366588d757cb84757e71b6170b",
+    "balances": {
+      "BTC": "81715917.11078088",
+      "ETH": "814510475.7966461",
+      "USDT": "819507229846.3779"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "79245011bfe3dd9d87a8eb48e4afa8efe91d91b69ccafb52d540d14ee7ac2594",
+    "balances": {
+      "BTC": "164303096.05720264",
+      "ETH": "1632323602.1876617",
+      "USDT": "1633732149723.6572"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "282cd5179ec05221da0f7b7f66af5e9e90d4f3e9449f6dcb225507a731cdae92",
+    "balances": {
+      "BTC": "328669248.21633542",
+      "ETH": "3283357875.9278672",
+      "USDT": "3270461755966.8585"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "86f63a1de96d36937b56e279378a416de2e121247837b225c70f518890e02014",
+    "balances": {
+      "BTC": "655898165.9303119",
+      "ETH": "6558115369.9915301",
+      "USDT": "6547095569084.7769"
+    }
+  }, {
+    "position": "RIGHT",
+    "hash": "d82f1211ddd9d27b605705cc4e5e4a454c2840aaee2bf63f01215d54f3f64122",
+    "balances": {
+      "BTC": "240139884.9757957",
+      "ETH": "2396409271.5933334",
+      "USDT": "2411061235779.1986"
+    }
+  }]
+}

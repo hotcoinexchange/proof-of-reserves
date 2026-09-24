@@ -1,0 +1,21 @@
+{
+  "protocol": "HOTCOIN-POR-SUM",
+  "assets": [{
+    "coin": "BTC",
+    "decimals": 8
+  }, {
+    "coin": "ETH",
+    "decimals": 7
+  }, {
+    "coin": "USDT",
+    "decimals": 4
+  }],
+  "snapshotId": "2026-09-21 00:00:00",
+  "root": "d52c3dc794f1f692595d55912a4576f576b9e173dd46a4411c4c7cf32428b1b1",
+  "leafCount": 310177,
+  "userTotals": {
+    "BTC": "1551965187.28112499",
+    "ETH": "15498249394.2438033",
+    "USDT": "15508999808943.6727"
+  }
+}
