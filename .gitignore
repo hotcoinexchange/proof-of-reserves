@@ -1,0 +1,22 @@
+#target/
+.settings/
+.classpath
+.factorypath
+.project
+hsf.lock
+*.iml
+/target/
+target
+bin
+/.sts4-cache/
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+.DS_Store
+
+
+/LOG_HOME_IS_UNDEFINED/
+

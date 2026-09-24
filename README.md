@@ -29,20 +29,20 @@ mvn clean package dependency:copy-dependencies
 Linux/macOS：
 
 ```shell
-java --class-path "target/merkle-sum-tree-1.0.0-SNAPSHOT.jar:target/dependency/*" \
+java --class-path "target/proof-of-reserves-1.0.0-SNAPSHOT.jar:target/dependency/*" \
   MerkleExample proof.json anchor.json
 ```
 
 Windows：
 
 ```shell
-java --class-path "target/merkle-sum-tree-1.0.0-SNAPSHOT.jar;target/dependency/*" MerkleExample proof.json anchor.json
+java --class-path "target/proof-of-reserves-1.0.0-SNAPSHOT.jar;target/dependency/*" MerkleExample proof.json anchor.json
 ```
 
 When no file arguments are provided, the verifier runs a self-check using the samples included in the repository:
 
 ```shell
-java --class-path "target/merkle-sum-tree-1.0.0-SNAPSHOT.jar:target/dependency/*" MerkleExample
+java --class-path "target/proof-of-reserves-1.0.0-SNAPSHOT.jar:target/dependency/*" MerkleExample
 ```
 
 Successful verification prints:
